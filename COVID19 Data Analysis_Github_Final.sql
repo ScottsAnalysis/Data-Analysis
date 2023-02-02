@@ -477,7 +477,8 @@ SELECT DISTINCT continent, date, MAX(population) OVER (PARTITION BY continent OR
 				ORDER BY 1,2;
 
 
-			--5) Generate CASES, DEATHS & VAX table
+
+			--2) Generate CASES, DEATHS & VAX table
 CREATE TABLE #ContData
 (
 Continent nvarchar(255),
@@ -501,7 +502,7 @@ SELECT #ContinentCases.continent, #ContinentCases.date, #ContinentCases.SummedNe
 					ORDER BY 1,2;
 
 
-			--6) 'Absolute' data table, including population, new cases, deaths and vax:
+			--3) 'Absolute' data table, including population, new cases, deaths and vax:
 CREATE TABLE ContinentData
 (
 Continent nvarchar(255),
@@ -524,7 +525,7 @@ SELECT DISTINCT #ContData.Continent, #ContData.Date, #ContinentPop.Population, #
 			-- Exported as COVID_ContinentData.csv
 
 
-			--7) Show 'Absolute' data above as Percentage of their respective continent population:
+			--4) Show 'Absolute' data above as Percentage of their respective continent population:
 CREATE TABLE ContinentData2
 (
 Continent nvarchar(255),
