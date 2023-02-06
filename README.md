@@ -28,3 +28,7 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
 3. Tesla Car Accidents since 2013, Including Involvement of Autopilot feature:
     - Data downloaded from: https://www.kaggle.com/datasets/ibriiee/tesla-autonomous-deaths-data-updated-2023?resource=download
     - SQL code: 'ScottsAnalysis\\Data-Analysis\\Tesla Deaths Analysis_06.02.2023.sql'
+    - Visualisation in Tableau:
+    - 1) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard1
+    - 2) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard2
+    - 3) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard3
