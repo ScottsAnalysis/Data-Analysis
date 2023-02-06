@@ -13,7 +13,7 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
         --> SQL code: 'ScottsAnalysis\\Data-Analysis\\COVID Data Analysis_GitHub_Final.sql'
 
 
-    - Step 2: Date visualisation using R and Tableau
+    - Step 2: Data visualisation using R and Tableau
         --> R visualisation code: 'ScottsAnalysis\\Data-Analysis\\COVID Data Visualisation_MortalityRatePercentChange_GitHub.R'
         --> Tableau dashboard: https://prod-uk-a.online.tableau.com/t/badzalisys/views/COVIDDATAVSUALISATION/Dashboard1/4407b3ab-fe7f-4955-b1a5-aeb280df4496/2531339e-a277-4f80-ba11-3fc17fb9897a
 
@@ -32,3 +32,4 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
     - 1) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard1
     - 2) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard2
     - 3) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard3
+    - 4) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Story1
