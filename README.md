@@ -19,7 +19,12 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
 
 
 
-
 2. Nashville Housing Data clean-up and organisation:
     - Data downloaded from: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
     - SQL code: 'ScottsAnalysis\\Data-Analysis\\Nashville Housing Data Clean Up_GitHub.sql'
+
+
+
+3. Tesla Car Accidents since 2013, Including Involvement of Autopilot feature:
+    - Data downloaded from: https://www.kaggle.com/datasets/ibriiee/tesla-autonomous-deaths-data-updated-2023?resource=download
+    - SQL code: 'ScottsAnalysis\\Data-Analysis\\Tesla Deaths Analysis_06.02.2023.sql'
