@@ -33,3 +33,9 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
     - 2) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard2
     - 3) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Dashboard3
     - 4) https://prod-uk-a.online.tableau.com/t/badzalisys/views/TESLAAccidentsDataAnalysis/Story1
+    
+    
+4. Worldwide average temperature changes (per country) compared to baseline (i.e.: average temperatures between 50's-80's)
+    - Data downloaded from: https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021?resource=download
+    - SQL code: 'WorldWide Temperatures_Data cleaning and Calculations_Github.sql'
+    - R Visualisation code: Coming soon.
