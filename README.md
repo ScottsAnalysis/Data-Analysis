@@ -1,6 +1,6 @@
 # Data-Analysis
 
-Analysis and visualisation of public data sets using SQL, R and Tableau.
+Analysis and visualisation of public data sets using SQL, R and PowerBI.
 
 
 
@@ -13,9 +13,9 @@ Analysis and visualisation of public data sets using SQL, R and Tableau.
         --> SQL code: 'ScottsAnalysis\\Data-Analysis\\COVID Data Analysis_GitHub_Final.sql'
 
 
-    - Step 2: Data visualisation using R and Tableau
+    - Step 2: Data visualisation using R and PowerBI
         --> R visualisation code: 'ScottsAnalysis\\Data-Analysis\\COVID Data Visualisation_MortalityRatePercentChange_GitHub.R'
-        --> Tableau dashboard: https://prod-uk-a.online.tableau.com/t/badzalisys/views/COVIDDATAVSUALISATION/Dashboard1/4407b3ab-fe7f-4955-b1a5-aeb280df4496/2531339e-a277-4f80-ba11-3fc17fb9897a
+        --> PowerBI dashboard: https://app.powerbi.com/links/8dcKq3wvRQ?ctid=a7a737ef-09b8-4acf-a629-8f68a5d33c02&pbi_source=linkShare
 
 
 
