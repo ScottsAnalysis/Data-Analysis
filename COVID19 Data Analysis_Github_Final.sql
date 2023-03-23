@@ -541,4 +541,7 @@ SELECT Continent, Date, (CumNewCases/population)*100, (CumNewDeaths/population)*
 				SELECT * FROM ContinentData2;
 			-- Exported as COVID_ContinentData2.csv
 
+-- PowerBI Data Visualisation Dashboard: 
+		-- https://app.powerbi.com/view?r=eyJrIjoiNWY4NmJkZWYtMWYwOC00YTliLWEwZjItNDhkZTRkYzY0MWMyIiwidCI6ImE3YTczN2VmLTA5YjgtNGFjZi1hNjI5LThmNjhhNWQzM2MwMiJ9
+		
 -------------------------------------------------------------------------------------------------------------------------------------
