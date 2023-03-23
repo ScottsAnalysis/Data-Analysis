@@ -15,7 +15,7 @@ Analysis and visualisation of public data sets using SQL, R and PowerBI.
 
     - Step 2: Data visualisation using R and PowerBI
         --> R visualisation code: 'ScottsAnalysis\\Data-Analysis\\COVID Data Visualisation_MortalityRatePercentChange_GitHub.R'
-        --> PowerBI dashboard: https://app.powerbi.com/links/8dcKq3wvRQ?ctid=a7a737ef-09b8-4acf-a629-8f68a5d33c02&pbi_source=linkShare
+        --> PowerBI dashboard: https://app.powerbi.com/view?r=eyJrIjoiNWY4NmJkZWYtMWYwOC00YTliLWEwZjItNDhkZTRkYzY0MWMyIiwidCI6ImE3YTczN2VmLTA5YjgtNGFjZi1hNjI5LThmNjhhNWQzM2MwMiJ9
 
 
 
