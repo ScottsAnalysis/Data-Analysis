@@ -47,4 +47,4 @@ Analysis and visualisation of public data sets using SQL, R and PowerBI.
 5. Worldwide average temperature changes (per country) compared to baseline (i.e.: average temperatures between 50's-80's)
     - Data downloaded from: https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021?resource=download
     - SQL code: 'WorldWide Temperatures_Data cleaning and Calculations_Github.sql'
-    - R Visualisation code: 'Worldwide Temperature Increase Data Visualisation and Statistics'
+    - R Visualisation code: 'Worldwide Temperature Increase Data Visualisation and Statistics.R'
