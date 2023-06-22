@@ -11,7 +11,7 @@ library(reshape2)
 
 
 # Import data from SQL:
-CO2lvl<-fread("C:\\SQL LESSONS\\UK CO2 Levels - DATA ANALYSIS\\UK CO2 data_SQL Cleaned.csv")
+CO2lvl<-fread("C:\\...\\UK CO2 data_SQL Cleaned.csv")
 
 
 #Inspect data visually:
