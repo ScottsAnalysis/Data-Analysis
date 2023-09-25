@@ -33,7 +33,7 @@ revenue_per_item_id AS
   ELSE ti.item_price * ti.item_quantity
   END AS Item_Revenue
 FROM TransactionsItems AS ti
-LEFT JOIN prism-2023-c3.Blue_Team.TM_Week8_Revenue_After_Discount as rev_dis
+LEFT JOIN Revenue_After_Discount as rev_dis
 USING(item_id, transaction_id)
 ORDER BY ti.date DESC
 ),
@@ -65,7 +65,7 @@ cogs_per_item_id AS
   pr.return_quantity,
   pc.cost_of_item,
   (cost_of_item * (ti.Item_Quantity - COALESCE(pr.return_quantity, 0)) + Distribution_per_item_id) AS Cost_of_Goods
-FROM TransactionsItems` AS ti
+FROM TransactionsItems AS ti
 LEFT JOIN ProductCosts AS pc
 ON pc.item_id = ti.item_id
 LEFT JOIN ProductReturns as pr
