@@ -1,5 +1,7 @@
 
---COVID-19 WORLD DATA ANALYSIS - (Data downloaded on 21/01/2023)
+--COVID-19 WORLD DATA ANALYSIS - 
+-- Data Source: https://ourworldindata.org/covid-deaths 
+--		(Data downloaded on 21/01/2023)
 
 	--CREATE DATABASE: COVID
 	USE COVID;
